@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-I am Sanjay, B.Tech CSE Student | UI/UX Designer I'm a Computer Science and Engineering student at Amrita University. Currently, I'm honing my skills in Java, C, C++, and Python, while also exploring AI/ML.
+I am Sanjay, UI/UX Designer I'm a Computer Science and Engineering student at Amrita University. Currently, I'm honing my skills in Java, C, C++, and Python, while also exploring AI/ML.
 
 ---
 
